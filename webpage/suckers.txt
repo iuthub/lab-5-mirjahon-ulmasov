@@ -1,0 +1,3 @@
+Mirjakhon;MA;8888;visa;
+Mirjakhon;MH;8008;mastercard;
+Mirjakhon;MA;8088;visa;
